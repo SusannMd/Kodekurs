@@ -1,6 +1,6 @@
 # Kodekurs
 Kodekurset holdes etter samarbeid mellom Fremtind og NTNU, og arrangeres i Oslo 5.paril 2022. 
-Kurset arrangeres for påmeldte VGS elever (16-19 år) i området rundt Oslo, og er tilknyttet Matematikk-OL som arrangeres i Oslo i juli samme år. 
+Kurset arrangeres for påmeldte VGS elever (16-19 år) fra Oslo-området, og er tilknyttet Matematikk-OL som arrangeres i Oslo i juli samme år. 
 
 
 ## Mastermind
