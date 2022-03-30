@@ -25,7 +25,7 @@ Capture The Flag (CTF) er opprinnelig en utendørssport som baserer seg på at t
 
 I forbindelse med IT, brukes CTF gjerne når man prater om hacking. Hacking har for mange en negativ assosiasjon, da dette ofte er knyttet til uetisk bruk for å utnytte andre sine svakheter. Derimot handler hacking mye mer om å klare å finne riktig informasjon for å løse ulike problemer som skal oppstå, og heller dekke disse hullene får man blir utnyttet. 
 
-## Oppgaver
+### Oppgaver
 Oppgavene bla, bla, bla
 
 <img src="https://northview.org/wp-content/uploads/2020/06/Capture-the-Flag.png" width="400">
