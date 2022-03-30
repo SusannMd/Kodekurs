@@ -1,5 +1,5 @@
 # Kodekurs
-Opprettet i forbindelse med Kodekurs holdt i Oslo, 5.april. Samarbeid mellom Fremtind og NTNU
+Kodekurset holdes etter samarbeid mellom Fremtind og NTNU, og arrangeres i Oslo 5.paril 2022. 
 
 
 ## Mastermind
