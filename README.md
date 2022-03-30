@@ -11,10 +11,10 @@ Spillet er opprettet i Jupyter Notebook, hvor vi benytter oss av C++ som kodespr
 
 <img src="https://www.lekolar.no/globalassets/inriver/resources/16907_075092.jpg" width="400">
 
-![This is an image|width=400px](https://www.lekolar.no/globalassets/inriver/resources/16907_075092.jpg)
-
 
 ## Capture The Flag
 Capture The Flag (CTF) er opprinnelig en utendørssport som baserer seg på at to eller flere lag konkurrerer om å fange flagg. Hvordan poenggiving av dette gjøres er veldig forskjellig, og kan blant annet handle om å klare å beholde sitt ene flagg lengst mulig på sin banehalvdel. Andre måter å spille på kan være at man skal samle inn flest antall flagg, eller den høyeste totalverdien gitt av poeng per flagg. 
 
 I forbindelse med IT, brukes CTF gjerne når man prater om hacking. Hacking har for mange en negativ assosiasjon, da dette ofte er knyttet til uetisk bruk for å utnytte andre sine svakheter, og da ofte via terminal-koding. Derimot handler hacking mye mer om å klare å finne riktig informasjon for å løse ulike problemer som skal oppstå, og heller dekke disse hullene får man blir utnyttet. 
+
+<img src="https://northview.org/wp-content/uploads/2020/06/Capture-the-Flag.png" width="400">
