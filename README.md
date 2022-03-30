@@ -3,5 +3,5 @@ Opprettet i forbindelse med Kodekurs holdt i Oslo, 5.april. Samarbeid mellom Fre
 
 
 Oppgaver: 
-* Lage MasterMind
+* Lage Mastermind
 * Gjennomføre CFT
