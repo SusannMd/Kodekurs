@@ -4,7 +4,7 @@ Kurset arrangeres for påmeldte VGS elever (16-19 år) fra Oslo-området, og er 
 
 
 ## Mastermind
-Mastermind er et spill som baserer seg på at det opprettes en sjult kode bestående av enten tegn, tall, bokstaver eller farger som brukeren skal klare å gjette seg frem til innen X antall forsøk. Spillet ble først gitt ut i 1971 som brettspill, med forskjellige variasjoner av spillet i årene som fulgte. London 1977 ble det for første gang arrangert VM i Mastermind, hvor en nordmann klarte å kapre 2.plassen etter at det ble spilt ekstraomganger i finalen. 
+Mastermind er et spill som baserer seg på at det opprettes en sjult kode bestående av enten tegn, tall, bokstaver eller farger som brukeren skal klare å gjette seg frem til innen X antall forsøk. Spillet ble først gitt ut i 1971 som brettspill, med forskjellige varianter og vanskelighetsgrader av spillet ble lansert i årene som fulgte. London i år 1977 ble det for første gang arrangert VM i Mastermind, hvor en nordmann klarte å kapre 2.plassen etter at det ble spilt ekstraomganger i finalen. 
 
 Når brukeren har gjettet sin kombinasjon av koden, vil vedkommende få en tilbakemelding på om det er gjettet riktige tegn og hvorvidt disse er plassert i riktig rekkefølge som den opprinnelige koden. Derimot vil det ikke bli gitt hvilke tegn som er korrekt eller feil. Brukeren får så lov til å gjette ny kombinasjon basert på informasjonen som er gitt frem til alle forsøk er benyttet. 
 
