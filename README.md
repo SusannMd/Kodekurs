@@ -9,7 +9,7 @@ Når brukeren har gjettet sin kombinasjon av koden, vil vedkommende få en tilba
 
 Spillet er opprettet i Jupyter Notebook, hvor vi benytter oss av C++ som kodespråk. En Jupyer 'kernel' for C++ er baser på 'cling C++ interpretor' og 'xeus native implemenation' av Jupyter protokollen. 
 
-![This is an image](https://www.lekolar.no/globalassets/inriver/resources/16907_075092.jpg|width=400px])
+![This is an image|width=400px](https://www.lekolar.no/globalassets/inriver/resources/16907_075092.jpg)
 
 
 ## Capture The Flag
