@@ -1,8 +1,8 @@
 # CTF-kodekurs
 
-CTF eller Capture the Flag er en aktivitet som orginalt er en utendørsaktivitet som ofte blir brukt i teambuilding. I denne sammenhengen skal vi holde den digitale versjonen, som ofte blir brukt for å lære om hacking. Det finnes mange måter å arrangere CTF, men i denne versjonen er målet å samle flest mulig poeng. Hvert flag har en gitt poengsum og det vil bli gitt flest poeng til de som løser oppgavene raskest, alle som løser oppgavene vil få noen poeng. 
+Capture The Flag (CTF) er opprinnelig en utendørssport som baserer seg på at to eller flere lag konkurrerer om å fange flagg. Hvordan poenggiving av dette gjøres er veldig forskjellig, og kan blant annet handle om å klare å beholde sitt ene flagg lengst mulig på sin banehalvdel. Andre måter å spille på kan være at man skal samle inn flest antall flagg, eller den høyeste totalverdien gitt av poeng per flagg. 
 
-Hacking er et bedgrep som ofte er forbundet med datakriminalitet og angrep, men kan også brukes om problemløsning.
+I forbindelse med IT, brukes CTF gjerne når man prater om hacking. Hacking har for mange en negativ assosiasjon, da dette ofte er knyttet til uetisk bruk for å utnytte andre sine svakheter. Derimot handler hacking mye mer om å klare å finne riktig informasjon for å løse ulike problemer som skal oppstå, og heller dekke disse hullene får man blir utnyttet. 
 
 
 ## Regler for denne CTF'en
