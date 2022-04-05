@@ -25,27 +25,27 @@ https://www.onlinegdb.com/online_c++_compiler
 
 // OPPGAVE 1
 
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
 
 // OPPGAVE 2
 
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
 
 // OPPGAVE 3
 
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
     
 // OPPGAVE 4
     
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
     
 // OPPGAVE 5
     
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
     
 // OPPGAVE 6 
     
-** TODO - Fyll inn **
+/* TODO - Fyll inn */
     
 
     
