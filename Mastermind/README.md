@@ -17,9 +17,9 @@ https://www.onlinegdb.com/online_c++_compiler
 ## Kode for å kjøre kompilatoren
 
 // KODEKURS MED NTNU
-#include <iostream>     // Benyttes til count, cin
-#include <string>       // Benyttes til tekst
-#include <local>
+#include <iostream>     // Benyttes til count, cin.   
+#include <string>       // Benyttes til tekst.   
+#include <local>  
 
 // OPPGAVE 1
 
