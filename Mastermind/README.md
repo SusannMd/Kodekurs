@@ -34,17 +34,22 @@ https://www.onlinegdb.com/online_c++_compiler
 ** TODO - Fyll inn **
     
 // OPPGAVE 4
+    
 ** TODO - Fyll inn **
     
 // OPPGAVE 5
+    
 ** TODO - Fyll inn **
     
 // OPPGAVE 6 
+    
 ** TODO - Fyll inn **
     
+
     
-// FOR Å KJØRE
+// FOR Å KJØRE ELLER TESTE KODE
 // Fjern '//' foran funksjonen for å test om den fungerer
+
 int main(){
     //Test oppgave1
     //std::cout<<randomizeString(4,'A','F');
