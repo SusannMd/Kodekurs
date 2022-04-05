@@ -52,35 +52,35 @@ https://www.onlinegdb.com/online_c++_compiler
 
 int main(){
     
-    //Test oppgave1
+ //Test oppgave1
     
-    //std::cout<<randomizeString(4,'A','F');
+ //std::cout<<randomizeString(4,'A','F');
 
     
-    //Test oppgave2
+ //Test oppgave2
+  
+ //std::string str=readInputToString(4,'A','F');
     
-    //std::string str=readInputToString(4,'A','F');
-    
-    //std::cout<<str;
+ //std::cout<<str;
 
     
-    //Test oppgave3
+ //Test oppgave3
     
-    //std::cout<<countChar("this is a line with 5 i",'i');
+ //std::cout<<countChar("this is a line with 5 i",'i');
 
     
-    //Test oppgave4
+ //Test oppgave4
     
-    //std::cout<<askYesNoQuestion("Vil du fortsette spillet?");
+ //std::cout<<askYesNoQuestion("Vil du fortsette spillet?");
 
     
-    //Test oppgave5
+ //Test oppgave5
     
-    //std::cout<<checkCharactersAndPosition("ABCD","FECA");
+ //std::cout<<checkCharactersAndPosition("ABCD","FECA");
 
     
-    //Test oppgave6
+ //Test oppgave6
     
-    //playMastermind();
+ //playMastermind();
 
 }
