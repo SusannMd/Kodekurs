@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1l0N4cHB5teJ0xu6gRTKqHZKoHKgiVblJ?usp=sh
 ## Kompilatorer 
 Dere velger selv hvilke av online kompilatorene dere ønsker å benytte. 
 
-https://www.programiz.com/cpp-programming/online-compiler/
+https://www.programiz.com/cpp-programming/online-compiler/   
 https://www.onlinegdb.com/online_c++_compiler
 
 ## Kode for å kjøre kompilatoren
