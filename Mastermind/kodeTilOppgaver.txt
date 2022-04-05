@@ -1,0 +1,122 @@
+#include <iostream> //Benyttes til cout, cin
+#include <string> //Benyttes til string
+#include <locale> //Benyttes til funksjonen toupper()
+
+std::string randomizeString(int n, char nedre, char ovre)
+{
+    std::string str;
+    for (int i = 0; i < 0/*TODO*/; ++i)
+    {
+        //str += /*TODO*/;
+    }
+    return str;
+}
+
+std::string readInputToString(int n, char nedre, char ovre)
+{
+    std::string str;
+    char bokstav;
+    int storrelse=0;
+    while(storrelse<n)
+    {
+        std::cout << "Skriv inn en bokstav: ";
+        std::cin>>bokstav;
+        bokstav=std::toupper(bokstav);
+        /*TODO*/
+        storrelse +=1; //Denne verdien skal økes hver gang man legger til en bokstav i strengen.
+    }
+    return str;
+}
+
+int countChar(std::string linje, char chr) {
+    int count=0;
+    
+    /*TODO*/
+    
+    return count;  
+}
+
+bool askYesNoQuestion(std::string questionMessage)
+//Returnere true når inputen fra brukeren er 'y', ellers false
+{
+    /*TODO*/
+    return true; //Denne linjen skal endres, returnerer nå standard true
+}
+
+int checkCharactersAndPosition(std::string guess,std::string code){
+    int riktig_plass{0};
+    /*TODO*/
+    return riktig_plass;
+}
+
+int checkCharacters(std::string guess,std::string code){
+    int total{0};
+    for (char x:"ABCDEF") {
+        total += std::min(countChar(guess,x),countChar(code,x));
+    }
+    total -= checkCharactersAndPosition(guess,code);
+    return total;
+}
+
+void playMastermind(){
+    constexpr int size = 4;
+    constexpr int letters = 6;
+    constexpr char startLetter = 'A';
+    constexpr int maxTries = 6;
+
+    bool playAgain = false;
+    do {
+        std::string code = "AAAA"/*TODO*/;
+        std::string guess;
+        int round = 0;
+        std::cout << "*** Mastermind ***" << "\n";
+
+        while (guess != code && round != maxTries) {
+            std::cout << "What's your guess? (" << size << " chars) " << "\n";
+            guess = "BBBB" /*TODO*/;
+            std::cout << "Your guess: " << guess << "\n";
+            ++round;
+
+            int correct = 0 /*TODO*/;
+            int correctChars = 0 /*TODO*/;
+
+            if (correct == size) {
+                break;
+            }
+
+            std::cout << "Correct characters: " << correctChars
+                 << "\nCorrect positions: " << correct << "\n" << "You have " << maxTries - round
+                 << " tries left." << "\n";
+        }
+
+        if (guess == code) {
+            std::cout << "Congratulations, you cracked the code!" << "\n";
+        } else {
+            std::cout << "You didn't manage to crack the code..." << "\n";
+            std::cout<<"Code was "<<code;
+        }
+        playAgain = false /*TODO*/;
+    } while (playAgain);
+}
+
+int main(){
+    //Test oppgave1
+    //std::cout<<randomizeString(4,'A','F');
+    
+    //Test oppgave2
+    //std::string str=readInputToString(4,'A','F');
+    //std::cout<<str;
+    
+    //Test oppgave3
+    //std::cout<<countChar("this is a line with 5 i",'i');
+    
+    //Test oppgave4
+    //std::cout<<askYesNoQuestion("Vil du fortsette spillet?");
+    
+    //Test oppgave5
+    //std::cout<<checkCharactersAndPosition("ABCD","FECA");
+    
+    //Test oppgave6
+    //playMastermind();
+    
+}
