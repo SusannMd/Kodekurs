@@ -32,4 +32,12 @@ Hvor mange studenter på NTNU studerer teknisk-naturvitenskapelige fag? Svarer h
 
 Finn koden som er gjemt i img.svg.
 
-## Flagg 9
+## Flagg 9 (15 poeng)
+
+Finn toppunktet til grafen til funksjonen $-x^2-2x+17$.
+
+Løs integralet $\int_0^2 2x-8 dx$.
+
+Finn tallet $2n$, der $n$ er det minste antall trekk man må bruke for å løse Hanois tårn.
+
+Fibonaccifølgen er definer rekursivt ved $x_0=0$, $x_1=1$ og $x_{n+1} = x_n+x_{n-1}$. Finn $x_8$.
