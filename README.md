@@ -9,7 +9,7 @@ Mastermind er et spill som baserer seg på at det opprettes en sjult kode bestå
 
 Når brukeren har gjettet sin kombinasjon av koden, vil vedkommende få en tilbakemelding på om det er gjettet riktige tegn og hvorvidt disse er plassert i riktig rekkefølge som den opprinnelige koden. Derimot vil det ikke bli gitt hvilke tegn som er korrekt eller feil. Brukeren får så lov til å gjette ny kombinasjon basert på informasjonen som er gitt frem til alle forsøk er benyttet.
 
-Spillet er opprettet i Jupyter Notebook, hvor vi benytter oss av C++ som kodespråk. En Jupyer 'kernel' for C++ er baser på 'cling C++ interpretor' og 'xeus native implemenation' av Jupyter protokollen.
+Spillet er opprettet i Jupyter Notebook, hvor vi benytter oss av C++ som kodespråk. En Jupyter 'kernel' for C++ er baser på 'cling C++ interpretor' og 'xeus native implemenation' av Jupyter protokollen.
 
 <img src="https://www.lekolar.no/globalassets/inriver/resources/16907_075092.jpg" width="400">
 
