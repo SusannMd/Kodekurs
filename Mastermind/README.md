@@ -15,6 +15,8 @@ https://www.programiz.com/cpp-programming/online-compiler/
 https://www.onlinegdb.com/online_c++_compiler
 
 ## Kode for å kjøre kompilatoren
+<i> Kopier alt under, og lim dette inn i kompilatoren </i>
+
 
 // KODEKURS MED NTNU
 #include <iostream>     // Benyttes til count, cin.   
