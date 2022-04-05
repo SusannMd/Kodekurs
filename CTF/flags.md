@@ -34,10 +34,10 @@ Finn koden som er gjemt i img.svg.
 
 ## Flagg 9 (15 poeng)
 
-Finn toppunktet til grafen til funksjonen $-x^2-2x+17$.
+Finn toppunktet til grafen til funksjonen <img src="https://render.githubusercontent.com/render/math?math=-x^2-2x+17">.
 
-Løs integralet $\int_0^2 2x-8 dx$.
+Løs integralet <img src="https://render.githubusercontent.com/render/math?math=\int_0^2 2x-8 dx">.
 
-Finn tallet $2n$, der $n$ er det minste antall trekk man må bruke for å løse Hanois tårn.
+Finn tallet <img src="https://render.githubusercontent.com/render/math?math=2n">, der <img src="https://render.githubusercontent.com/render/math?math=n"> er det minste antall trekk man må bruke for å løse Hanois tårn.
 
-Fibonaccifølgen er definer rekursivt ved $x_0=0$, $x_1=1$ og $x_{n+1} = x_n+x_{n-1}$. Finn $x_8$.
+Fibonaccifølgen er definer rekursivt ved <img src="https://render.githubusercontent.com/render/math?math=x_0=0">, <img src="https://render.githubusercontent.com/render/math?math=x_1=1"> og <img src="https://render.githubusercontent.com/render/math?math=x_{n+1} = x_n+x_{n-1}">. Finn <img src="https://render.githubusercontent.com/render/math?math=x_8">.
