@@ -51,23 +51,36 @@ https://www.onlinegdb.com/online_c++_compiler
 // Fjern '//' foran funksjonen for å test om den fungerer
 
 int main(){
+    
     //Test oppgave1
+    
     //std::cout<<randomizeString(4,'A','F');
 
+    
     //Test oppgave2
+    
     //std::string str=readInputToString(4,'A','F');
+    
     //std::cout<<str;
 
+    
     //Test oppgave3
+    
     //std::cout<<countChar("this is a line with 5 i",'i');
 
+    
     //Test oppgave4
+    
     //std::cout<<askYesNoQuestion("Vil du fortsette spillet?");
 
+    
     //Test oppgave5
+    
     //std::cout<<checkCharactersAndPosition("ABCD","FECA");
 
+    
     //Test oppgave6
+    
     //playMastermind();
 
 }
